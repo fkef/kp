@@ -1,0 +1,33 @@
+
+html{background-color: #736f6e;}
+h1{background-color: white;}
+
+a:link{
+    padding: 20px 21px;
+    border: solid 1px black;
+    text-decoration: none;
+    background-color:white ;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 100px;
+    margin: 20px;
+}
+
+img{width: 500px;}
+section{width: 1000px;}
+table {color: white;}
+#h{ font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    width: 1000px;}
+    #h td,#h th{border: 1px solid #ddd;
+    padding: 8px;}
+    #h tr:nth-child(even){background-color: black;}
+    #h tr:hover{background-color: #736f6e;}
+    
+#h th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: black;
+    color: white;
+}
